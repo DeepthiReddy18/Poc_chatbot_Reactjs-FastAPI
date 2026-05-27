@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+openai
+chromadb
+pymupdf
+python-dotenv
+numpy
+dotenv
+fitz
